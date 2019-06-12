@@ -1,9 +1,0 @@
-Anotações sobre JavaScript:
-
-
-Declaração de Variável: 
-
-- Tipagem Dinâmica.
-- Tipos: String, Inteiro, Float, Booleanos, Vetores e objetos(structs).
-
-
